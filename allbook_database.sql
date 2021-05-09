@@ -1241,5 +1241,3 @@ INSERT INTO `users_purchases`
 VALUES (29, 8, 1, 1, ''2016-07-18 17:20:17'');
 INSERT INTO `users_purchases`
 VALUES (30, 8, 11, 3, ''2016-07-18 17:20:17'');
-
-

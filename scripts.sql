@@ -135,4 +135,3 @@ DELIMITER ;
 DROP TRIGGER IF EXISTS check_is_not_empty;
 
 DELIMITER //
-
