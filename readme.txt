@@ -50,3 +50,4 @@ USERS - для регистрации достаточно email и пароль
     users_purchases - таблица покупок пользователя
     publishing_houses - таблица издательств
     books_publishing_house - таблица принадлежности книг к издательствам
+
